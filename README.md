@@ -6,7 +6,7 @@ A web-based application that simulates and visualizes classic **CPU scheduling a
 
 ## 🌐 Live Demo
 
-🔗 **Try it here**: [Open Visualizer](https://your-live-site-link.com)
+🔗 **Try it here**: [Open Visualizer](https://srijan-06.github.io/CPU-Scheduling-Simulator/)
 
 
 ---
